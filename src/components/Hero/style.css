@@ -24,7 +24,7 @@
 .hero-info{
    display: flex;
    flex-direction: column;
-    background-color: rgb(178, 11, 16);
+    background-color:lightskyblue;
     padding: 20px;
     align-items: center;       
 }

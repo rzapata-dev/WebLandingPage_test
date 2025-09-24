@@ -13,7 +13,8 @@ function Service() {
 
         <div className="service-cards">
           {/* Servicio 1 */}
-          <article className="service-card service-card-left">
+          <div className="service-card service-card-left">
+          <article >
             <h3>Cambio de divisas</h3>
             <p>
               Realizaremos el cambio de tus divisas con las mejores tasas del mercado,
@@ -24,6 +25,7 @@ function Service() {
             </a>
             <img src="https://via.placeholder.com/600x400" alt="Cambio de divisas en Barranco" />
           </article>
+          </div>
 
           {/* Servicios agrupados en la derecha */}
           <div className="service-card service-card-right">
