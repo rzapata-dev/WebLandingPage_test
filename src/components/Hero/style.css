@@ -1,0 +1,34 @@
+.hero{
+    width: 100%;
+    height: 680px;
+    
+    background-color: cadetblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+}
+
+.hero-container{
+    max-width: 1350px;
+    height: 100%;
+   
+    background-color: rgb(18, 32, 228);
+   display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding: 90px 40px;
+}
+
+.hero-info{
+   display: flex;
+   flex-direction: column;
+    background-color: rgb(178, 11, 16);
+    padding: 20px;
+    align-items: center;       
+}
+.hero-image{
+    background-color: cornflowerblue;
+    padding: 20px;
+}
